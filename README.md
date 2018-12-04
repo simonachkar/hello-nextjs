@@ -7,7 +7,7 @@ It uses `axios` to fetch shows data from an open-source API called [TVMaze](http
 
 ## Development
 
-* Clone the report
+* Clone the repo
 * Navigate into project folder
 * Run `npm install`
 * Run `npm run dev`
